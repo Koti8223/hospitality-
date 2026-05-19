@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ERFlow — Smart Emergency Room Priority Board
 
 <p align="center">
@@ -155,3 +156,6 @@ ERFlow was built as a fast-paced MVP project focused on creating a realistic hea
 - **Architecture**: Unified User accounts and Doctor profiles with atomic database creation<br>
 - **Bug Fixes**: Resolved patient visibility bleed by strictly linking doctors via `userId`<br>
 - **Tooling**: Created `seed.js` and `reset.js` scripts for database management<br>
+=======
+# hospitality-
+>>>>>>> 3383357ecbfed7032788c91ec712be1edfeeca85
